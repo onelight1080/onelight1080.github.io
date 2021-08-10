@@ -4,6 +4,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  zip_url: http://baidu.com
-  another_url: another value
+  zip_url: https://onelight.cloud
+  tar_url : https://node.onelight.club
 
