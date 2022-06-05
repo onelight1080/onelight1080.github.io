@@ -4,7 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  zip_url: https://onelight.cc
+  zip_url: https://onelight.top
   tar_url : https://onelight.monster
 google_analytics: UA-205458916-1
 
